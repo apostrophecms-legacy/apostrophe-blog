@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-blog
 
 This bundle provides a complete foundation for blogging with the [Apostrophe CMS](http://apostrophenow.org).
